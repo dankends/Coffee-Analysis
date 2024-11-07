@@ -118,6 +118,9 @@ The visuals in `My_Report.png` summarize these findings, demonstrating Brazil’
 leading role in coffee production and providing a breakdown of the global
 production distribution as of 2018.
 
+![Coffee Production Analysis Report](My_Report.png)
+
+
 License
 -------
 
