@@ -57,7 +57,7 @@ How to Use
 1.  **Clone the Repository**: Clone this repository to your local machine:
 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    bashCopy codegit clone https://github.com/your-username/coffee-production-analysis.git
+    bashCopy codegit clone https://github.com/dankends/coffee-production-analysis.git
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 2.  **Open the Notebook**: Navigate to the project folder and open the Jupyter
@@ -99,9 +99,24 @@ Some of the code used in the analysis:
 Results
 -------
 
-This analysis helps reveal patterns in coffee production by looking at changes
-across different regions and years. The Jupyter Notebook contains all the
-insights and visuals generated from this data.
+The analysis reveals Brazil’s growing dominance in the global coffee market:
+
+-   **Brazil's Share of Global Production**: Brazil's share of global coffee
+    production rose from 41.4% in 1990 to 58.3% in 2018, showing a significant
+    increase over the years.
+
+-   **Comparison with Other Producers**: The top five coffee-producing countries
+    (Brazil, Vietnam, Colombia, Indonesia, and Ethiopia) account for a major
+    share of global production, with Brazil alone making up 37% in 2018.
+
+-   **Historical Production Trends**: A trend analysis from 1990 to 2018 shows
+    Brazil steadily expanding its market share, even as global coffee production
+    continues to grow. This is illustrated in the line and area charts in the
+    report.
+
+The visuals in `My_Report.png` summarize these findings, demonstrating Brazil’s
+leading role in coffee production and providing a breakdown of the global
+production distribution as of 2018.
 
 License
 -------
