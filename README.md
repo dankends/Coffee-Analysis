@@ -121,7 +121,3 @@ production distribution as of 2018.
 ![Coffee Production Analysis Report](My_Report.png)
 
 
-License
--------
-
-This project is open-source under the MIT License.
